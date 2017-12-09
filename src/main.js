@@ -5,6 +5,7 @@ import FastClick from 'fastclick'
 import VueRouter from 'vue-router'
 import App from './App'
 import Home from './components/HelloFromVux'
+// import Hello from './components/HelloWorld'
 
 Vue.use(VueRouter)
 
